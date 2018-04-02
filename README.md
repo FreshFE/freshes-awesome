@@ -1,3 +1,7 @@
+<p style="text-align: center;">
+  <img src="https://github.com/minowu/freshes-awesome/blob/master/logo.jpg" alt="Freshes Awesome Logo">
+</p>
+
 # Freshes awesome
 
 > 专门维护 freshes 的知识库
