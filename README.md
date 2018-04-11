@@ -17,5 +17,7 @@
 ### 推荐博文
 >（包括视频和 PPT 资源）
 
+* [前端开发工程师手册](https://leohxj.gitbooks.io/front-end-database/content/)
+
 
 ### 活动资源
